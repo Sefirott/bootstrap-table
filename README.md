@@ -1,4 +1,4 @@
-#Bootstrap Table for Fintech
+# Bootstrap Table for Fintech
 
 This project created upon request from Fintech
 
