@@ -4,7 +4,7 @@ This project was created upon request from Fintech
 
 # See final build on Vercel
 
-https://bootstrap-table-sefirott.vercel.app/
+https://bootstrap-table-nine.vercel.app/
 
 
 # Getting Started with Create React App
