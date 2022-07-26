@@ -1,6 +1,6 @@
 # Bootstrap Table for Fintech
 
-This project created upon request from Fintech
+This project was created upon request from Fintech
 
 
 # Getting Started with Create React App
